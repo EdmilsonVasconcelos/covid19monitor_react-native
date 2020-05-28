@@ -1,0 +1,1 @@
+# covid19monitor_react-native
